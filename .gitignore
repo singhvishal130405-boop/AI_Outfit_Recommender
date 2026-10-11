@@ -1,0 +1,19 @@
+# data and generated artifacts
+dataset/
+work/
+*.keras
+*.h5
+*.npz
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
