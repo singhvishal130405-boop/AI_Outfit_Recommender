@@ -172,6 +172,10 @@ models are also attached to the [Releases](../../releases) page.
 - Train Model 2 on noisier Model 1 features to close the gap to the upper bound.
 - Add a simple web interface.
 
+## Development note
+
+I designed, wrote, trained and tested this project myself. I used AI for code reviews, debugging, fixing syntax errors and drafting parts of the documentation.
+
 ## Acknowledgements
 
 Dataset: Param Aggarwal, *Fashion Product Images (Small)*, Kaggle.
